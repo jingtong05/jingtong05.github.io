@@ -1,5 +1,5 @@
 body {
-    background-color: lightpink;
+    background-color: rgb(255, 213, 220);
     margin: 0;
     padding: 0; 
 }
@@ -7,16 +7,20 @@ body {
 h1 {
     color:black; 
     font-family: Georgia;
-    font-size: large;
+    font-size: 100%; 
     text-align: center;
 }
 
 h2 {
     color: darkgray;
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: 75%; 
 }
 
-.image {
-    align-self: center;
+p {
+    font-family: 'Trebuchet MS';
+}
+
+.image.png {
+    background-position: center;
 }
