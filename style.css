@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 213, 220);
+    background-color: rgba(255, 232, 236, 0.933);
     margin: 0;
     padding: 0; 
 }
@@ -7,14 +7,14 @@ body {
 h1 {
     color:black; 
     font-family: Georgia;
-    font-size: 100%; 
+    font-size: 250%; 
     text-align: center;
 }
 
 h2 {
-    color: darkgray;
+    color: rgb(121, 121, 121);
     font-family: 'Times New Roman', Times, serif;
-    font-size: 75%; 
+    font-size: 125%; 
 }
 
 p {
@@ -22,5 +22,5 @@ p {
 }
 
 .image.png {
-    background-position: center;
+    position:relative
 }
